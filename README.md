@@ -1,3 +1,6 @@
+# AI BabySitter Project
+Team members: Vi Dang, Phuong Do, Phuc Tran
+
 ## Install opencv with conda
 `conda install opencv`
 
