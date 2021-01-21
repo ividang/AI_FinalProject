@@ -23,11 +23,6 @@ BabysistterAI.ipynb
 
   - Block 14              Vi Dang          Predicting testing images
 
-Note: 
-The code is authored by Uysim a developer who contributed his work on Kaggle [4]. In the
-source code he used CNN model. However, we will use his code as reference and will update
-his model using AlexNet. At this moment, the code is still in developing, therefore, there
-are a lot of errors that need to fix.
 
 Requirement to run the code:
 You can use GoogleColab to run the code.
