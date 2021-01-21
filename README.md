@@ -10,13 +10,13 @@ and from that it will define if the baby is ‘safe’ or ‘unsafe’.
 
 Our dataset contains 1600 images which are downloaded from Google and extracted from Youtube videos  
 of completely different babies, in different cribs, camera settings and light settings.
-Also, this number includes some baby doll images which will be taken manually
+Also, this number includes some baby doll images which were taken manually by our team member
 
 ## Methodology
 
 We applied AlexNet architecture which is a famous model of convolutional neural network 
-for images classification,  
-The project is built on Jupyter Notebook with the use of Keras and Tensorflow libraries
+for images classification.
+The project was built on Jupyter Notebook with the use of Keras library
 
 ## Some images of the result
 
