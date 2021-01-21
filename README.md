@@ -20,6 +20,9 @@ The project is built on Jupyter Notebook with the use of Keras and Tensorflow li
 
 ## Some images of the result
 
+![alt text](result1.png)
+
+![alt text](result2.png)
 
 
 
